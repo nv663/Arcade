@@ -1,8 +1,15 @@
 body {
-    background-color:rgb(182, 186, 235);
-    color: rgb(14, 7, 71);
+    background-color:rgb(190, 193, 233);
+    color: rgb(19, 21, 58);
+    font-family: monospace;
+    padding: 5px 25px;
 }
 
-a {
-    color: rgb(14, 7, 71);
+h1 {
+    font-size: 40px;
+}
+
+li {
+    padding: 5px;
+    font-size: 16px;
 }
